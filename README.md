@@ -48,13 +48,13 @@ Below is an overview of the repository's directory layout:
 ```plaintext
 Tech-Anthotheca/
 ├── Computer-Science/
-│   ├── algorithms/
+│   ├── Algorithms/
 │   │   ├── sorting-algorithms.pdf
 │   │   └── graph-algorithms.pdf
 │   ├── Programming/
-│   │   ├── python-programming.pdf
+│   │   ├── Think Python.pdf - (O'Reilly 3rd Edition)
 │   │   └── java-for-beginners.pdf
-│   └── systems/
+│   └── Data-Structures/
 │       ├── operating-systems.pdf
 │       └── distributed-systems.pdf
 ├── Mathematics/
