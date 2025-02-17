@@ -51,7 +51,7 @@ Tech-Anthotheca/
 │   ├── algorithms/
 │   │   ├── sorting-algorithms.pdf
 │   │   └── graph-algorithms.pdf
-│   ├── programming/
+│   ├── Programming/
 │   │   ├── python-programming.pdf
 │   │   └── java-for-beginners.pdf
 │   └── systems/
