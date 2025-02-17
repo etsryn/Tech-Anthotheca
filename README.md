@@ -46,7 +46,7 @@ Tech Anthotheca is designed to be the go-to repository for tech enthusiasts look
 Below is an overview of the repository's directory layout:
 
 ```plaintext
-Tech-Anthotheca/
+Tech-Anthotheca (Repository)/
 ├── Computer-Science/
 │   ├── Algorithms/
 │   │   ├── ######-######.pdf
