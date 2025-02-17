@@ -38,7 +38,14 @@ Welcome to **Tech Anthotheca** – a comprehensive repository dedicated to colle
 
 The repository is organized into clearly defined directories to help you navigate our diverse collection:
 
-Tech-Anthotheca/ ├── Engineering/ ├── Computer-Science/ ├── Mathematics/ ├── Data-Science/ ├── Machine-Learning/ ├── Artificial-Intelligence/ └── Miscellaneous/
+Tech-Anthotheca/<br />
+── Engineering/<br />
+├── Computer-Science/<br />
+├── Mathematics/<br />
+├── Data-Science/<br />
+├── Machine-Learning/<br />
+├── Artificial-Intelligence/<br />
+└── Miscellaneous/
 
 - **Engineering:** Books and documents related to various branches of engineering.
 - **Computer Science:** Resources ranging from programming fundamentals to advanced computing theories.
