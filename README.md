@@ -82,12 +82,18 @@ Tech-Anthotheca/
 │       ├── ######-######.pdf
 │       └── ######-######.pdf
 ├── Machine-Learning/
-│   ├── fundamentals/
+│   ├── Supervised-Learning/
 │   │   ├── ######-######.pdf
 │   │   └── ######-######.pdf
-│   └── applications/
-│       ├── ######-######.pdf
-│       └── ######-######.pdf
+│   ├── Unsupervised-Learning/
+│   │   ├── ######-######.pdf
+│   │   └── ######-######.pdf
+│   |── Reinforcement-Learning/
+│   |   ├── Mathematics
+│   │   |   └── The Mathematics of Reinforcement Learning.pdf - (by University of Mannheim | Contains 203 Pages)
+│   │   └── Practical
+│   │       └── #####-#####.pdf
+│   └──── Theory
 ├── Deep-Learning/
 │   ├── Mathematics/
 │   │   ├── Mathematical Theory of Deep Learning.pdf - (by "Philipp Petersen" and "Jakob Zech" in 2024 | Contains 275 Pages)
