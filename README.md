@@ -47,14 +47,6 @@ Below is an overview of the repository's directory layout:
 
 ```plaintext
 Tech-Anthotheca/
-├── Engineering/
-│   ├── introductory/
-│   │   ├── basics-of-engineering.pdf
-│   │   └── engineering-fundamentals.pdf
-│   ├── advanced/
-│   │   ├── advanced-mechanics.pdf
-│   │   └── robotics.pdf
-│   └── README.md
 ├── Computer-Science/
 │   ├── algorithms/
 │   │   ├── sorting-algorithms.pdf
