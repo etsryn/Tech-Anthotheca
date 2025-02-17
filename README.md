@@ -68,7 +68,7 @@ Tech-Anthotheca/
 │       ├── probability-theory.pdf
 │       └── inferential-statistics.pdf
 ├── Data-Science/
-│   ├── machine-learning/
+│   ├── data-handling/
 │   │   ├── ml-basics.pdf
 │   │   └── deep-learning-intro.pdf
 │   └── data-analytics/
