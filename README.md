@@ -57,6 +57,7 @@ Tech-Anthotheca (Repository)/
 │   └── Data-Structures/
 │       ├── ######-######.pdf
 │       └── ######-######.pdf
+|
 ├── Mathematics/
 │   ├── calculus/
 │   │   ├── ######-######.pdf
@@ -67,6 +68,7 @@ Tech-Anthotheca (Repository)/
 │   └── statistics/
 │       ├── ######-######.pdf
 │       └── ######-######.pdf
+|
 ├── Data-Science/
 │   ├── data-handling/
 │   │   ├── ######-######.pdf
@@ -74,6 +76,7 @@ Tech-Anthotheca (Repository)/
 │   └── Questionnaire/
 │       ├── Data Science Interview QnA's.pdf - (ACE PREP Researchers - Based in London, England | Contains 141 Pages)
 │       └── ######-######.pdf
+|
 ├── Artificial-Intelligence/
 │   ├── fundamentals/
 │   │   ├── ######-######.pdf
@@ -81,6 +84,7 @@ Tech-Anthotheca (Repository)/
 │   └── applications/
 │       ├── ######-######.pdf
 │       └── ######-######.pdf
+|
 ├── Machine-Learning/
 │   ├── Supervised-Learning/
 │   │   ├── ######-######.pdf
@@ -94,6 +98,7 @@ Tech-Anthotheca (Repository)/
 │   │   └── Practical
 │   │       └── #####-#####.pdf
 │   └──── Theory
+|
 ├── Deep-Learning/
 │   ├── Mathematics/
 │   │   ├── Mathematical Theory of Deep Learning.pdf - (by "Philipp Petersen" and "Jakob Zech" in 2024 | Contains 275 Pages)
@@ -101,6 +106,7 @@ Tech-Anthotheca (Repository)/
 │   └── applications/
 │       ├── ######-######.pdf
 │       └── ######-######.pdf
+|
 ├── LICENSE
 └── README.md
 ```
