@@ -101,12 +101,6 @@ Tech-Anthotheca (Repository)/
 │   └── applications/
 │       ├── ######-######.pdf
 │       └── ######-######.pdf
-├── docs/
-│   ├── project-overview.md
-│   ├── contribution-guidelines.md
-│   └── FAQ.md
-├── .gitignore
-├── CONTRIBUTING.md
 ├── LICENSE
 └── README.md
 ```
