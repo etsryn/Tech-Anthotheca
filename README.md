@@ -46,69 +46,69 @@ Tech Anthotheca is designed to be the go-to repository for tech enthusiasts look
 Below is an overview of the repository's directory layout:
 
 ```plaintext
-Repository : Tech-Anthotheca/
-             ├── Computer-Science/
-             │   ├── Algorithms/
-             │   │   ├── ######-######.pdf
-             │   │   └── ######-######.pdf
-             │   ├── Programming/
-             │   │   ├── Think Python.pdf - (by O'Reilly | 3rd Edition | Contains 245 Pages)
-             │   │   └── ######-######.pdf
-             │   └── Data-Structures/
-             │       ├── ######-######.pdf
-             │       └── ######-######.pdf
-             ├── Mathematics/
-             │   ├── calculus/
-             │   │   ├── ######-######.pdf
-             │   │   └── ######-######.pdf
-             │   ├── linear-algebra/
-             │   │   ├── ######-######.pdf
-             │   │   └── ######-######.pdf
-             │   └── statistics/
-             │       ├── ######-######.pdf
-             │       └── ######-######.pdf
-             ├── Data-Science/
-             │   ├── data-handling/
-             │   │   ├── ######-######.pdf
-             │   │   └── ######-######.pdf
-             │   └── data-analytics/
-             │       ├── ######-######.pdf
-             │       └── ######-######.pdf
-             ├── Artificial-Intelligence/
-             │   ├── fundamentals/
-             │   │   ├── ######-######.pdf
-             │   │   └── ######-######.pdf
-             │   └── applications/
-             │       ├── ######-######.pdf
-             │       └── ######-######.pdf
-             ├── Machine-Learning/
-             │   ├── Supervised-Learning/
-             │   │   ├── ######-######.pdf
-             │   │   └── ######-######.pdf
-             │   ├── Unsupervised-Learning/
-             │   │   ├── ######-######.pdf
-             │   │   └── ######-######.pdf
-             │   |── Reinforcement-Learning/
-             │   |   ├── Mathematics
-             │   │   |   └── The Mathematics of Reinforcement Learning.pdf - (by University of Mannheim | Contains 203 Pages)
-             │   │   └── Practical
-             │   │       └── #####-#####.pdf
-             │   └──── Theory
-             ├── Deep-Learning/
-             │   ├── Mathematics/
-             │   │   ├── Mathematical Theory of Deep Learning.pdf - (by "Philipp Petersen" and "Jakob Zech" in 2024 | Contains 275 Pages)
-             │   │   └── ######-######.pdf
-             │   └── applications/
-             │       ├── ######-######.pdf
-             │       └── ######-######.pdf
-             ├── docs/
-             │   ├── project-overview.md
-             │   ├── contribution-guidelines.md
-             │   └── FAQ.md
-             ├── .gitignore
-             ├── CONTRIBUTING.md
-             ├── LICENSE
-             └── README.md
+Tech-Anthotheca/
+├── Computer-Science/
+│   ├── Algorithms/
+│   │   ├── ######-######.pdf
+│   │   └── ######-######.pdf
+│   ├── Programming/
+│   │   ├── Think Python.pdf - (by O'Reilly | 3rd Edition | Contains 245 Pages)
+│   │   └── ######-######.pdf
+│   └── Data-Structures/
+│       ├── ######-######.pdf
+│       └── ######-######.pdf
+├── Mathematics/
+│   ├── calculus/
+│   │   ├── ######-######.pdf
+│   │   └── ######-######.pdf
+│   ├── linear-algebra/
+│   │   ├── ######-######.pdf
+│   │   └── ######-######.pdf
+│   └── statistics/
+│       ├── ######-######.pdf
+│       └── ######-######.pdf
+├── Data-Science/
+│   ├── data-handling/
+│   │   ├── ######-######.pdf
+│   │   └── ######-######.pdf
+│   └── data-analytics/
+│       ├── ######-######.pdf
+│       └── ######-######.pdf
+├── Artificial-Intelligence/
+│   ├── fundamentals/
+│   │   ├── ######-######.pdf
+│   │   └── ######-######.pdf
+│   └── applications/
+│       ├── ######-######.pdf
+│       └── ######-######.pdf
+├── Machine-Learning/
+│   ├── Supervised-Learning/
+│   │   ├── ######-######.pdf
+│   │   └── ######-######.pdf
+│   ├── Unsupervised-Learning/
+│   │   ├── ######-######.pdf
+│   │   └── ######-######.pdf
+│   |── Reinforcement-Learning/
+│   |   ├── Mathematics
+│   │   |   └── The Mathematics of Reinforcement Learning.pdf - (by University of Mannheim | Contains 203 Pages)
+│   │   └── Practical
+│   │       └── #####-#####.pdf
+│   └──── Theory
+├── Deep-Learning/
+│   ├── Mathematics/
+│   │   ├── Mathematical Theory of Deep Learning.pdf - (by "Philipp Petersen" and "Jakob Zech" in 2024 | Contains 275 Pages)
+│   │   └── ######-######.pdf
+│   └── applications/
+│       ├── ######-######.pdf
+│       └── ######-######.pdf
+├── docs/
+│   ├── project-overview.md
+│   ├── contribution-guidelines.md
+│   └── FAQ.md
+├── .gitignore
+├── CONTRIBUTING.md
+├── LICENSE
+└── README.md
 ```
 
 
