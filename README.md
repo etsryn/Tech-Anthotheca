@@ -127,7 +127,7 @@ To clone and set up Tech Anthotheca on your local machine, follow these steps:
 1. **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/yourusername/tech-anthotheca.git
+    git clone https://github.com/etsryn/Tech-Anthotheca.git
     ```
 
 2. **Navigate into the Directory:**
