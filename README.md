@@ -52,7 +52,7 @@ Tech-Anthotheca/
 │   │   ├── ######-######.pdf
 │   │   └── ######-######.pdf
 │   ├── Programming/
-│   │   ├── Think Python.pdf - (O'Reilly 3rd Edition | Contains 245 Pages)
+│   │   ├── Think Python.pdf - (by O'Reilly 3rd Edition | Contains 245 Pages)
 │   │   └── ######-######.pdf
 │   └── Data-Structures/
 │       ├── ######-######.pdf
