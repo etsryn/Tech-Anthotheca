@@ -49,38 +49,52 @@ Below is an overview of the repository's directory layout:
 Tech-Anthotheca/
 ├── Computer-Science/
 │   ├── Algorithms/
-│   │   ├── sorting-algorithms.pdf
-│   │   └── graph-algorithms.pdf
+│   │   ├── ######-######.pdf
+│   │   └── ######-######.pdf
 │   ├── Programming/
 │   │   ├── Think Python.pdf - (O'Reilly 3rd Edition)
-│   │   └── java-for-beginners.pdf
+│   │   └── ######-######.pdf
 │   └── Data-Structures/
-│       ├── operating-systems.pdf
-│       └── distributed-systems.pdf
+│       ├── ######-######.pdf
+│       └── ######-######.pdf
 ├── Mathematics/
 │   ├── calculus/
-│   │   ├── differential-calculus.pdf
-│   │   └── integral-calculus.pdf
+│   │   ├── ######-######.pdf
+│   │   └── ######-######.pdf
 │   ├── linear-algebra/
-│   │   ├── matrix-theory.pdf
-│   │   └── vector-spaces.pdf
+│   │   ├── ######-######.pdf
+│   │   └── ######-######.pdf
 │   └── statistics/
-│       ├── probability-theory.pdf
-│       └── inferential-statistics.pdf
+│       ├── ######-######.pdf
+│       └── ######-######.pdf
 ├── Data-Science/
 │   ├── data-handling/
-│   │   ├── ml-basics.pdf
-│   │   └── deep-learning-intro.pdf
+│   │   ├── ######-######.pdf
+│   │   └── ######-######.pdf
 │   └── data-analytics/
-│       ├── data-visualization.pdf
-│       └── big-data.pdf
+│       ├── ######-######.pdf
+│       └── ######-######.pdf
 ├── Artificial-Intelligence/
 │   ├── fundamentals/
-│   │   ├── ai-basics.pdf
-│   │   └── neural-networks.pdf
+│   │   ├── ######-######.pdf
+│   │   └── ######-######.pdf
 │   └── applications/
-│       ├── natural-language-processing.pdf
-│       └── computer-vision.pdf
+│       ├── ######-######.pdf
+│       └── ######-######.pdf
+├── Machine-Learning/
+│   ├── fundamentals/
+│   │   ├── ######-######.pdf
+│   │   └── ######-######.pdf
+│   └── applications/
+│       ├── ######-######.pdf
+│       └── ######-######.pdf
+├── Deep-Learning/
+│   ├── Mathematics/
+│   │   ├── Mathematical Theory of Deep Learning.pdf - (by "Philipp Petersen" and "Jakob Zech" in 2024 | Contains 275 Pages)
+│   │   └── ######-######.pdf
+│   └── applications/
+│       ├── ######-######.pdf
+│       └── ######-######.pdf
 ├── docs/
 │   ├── project-overview.md
 │   ├── contribution-guidelines.md
