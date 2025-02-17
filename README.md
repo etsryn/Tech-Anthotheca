@@ -52,7 +52,7 @@ Tech-Anthotheca/
 │   │   ├── sorting-algorithms.pdf
 │   │   └── graph-algorithms.pdf
 │   ├── Programming/
-│   │   ├── Think Python.pdf - (O'Reilly 3rd Edition)
+│   │   ├── Think Python.pdf - **(O'Reilly 3rd Edition)**
 │   │   └── java-for-beginners.pdf
 │   └── Data-Structures/
 │       ├── operating-systems.pdf
