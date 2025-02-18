@@ -101,13 +101,17 @@ Tech-Anthotheca (Repository)/
 │   |       └── Mathematics for Machine Learning.pdf - (by Mohamed Aazi | Reviser Edition | 254 Pages)
 │   └──── Unauthorized-Texts
 │           |── Machine Learning Notes Part 01.pdf - (Source Unknown | 129 Pages)
-│           └── Machine Learning Notes Part 02.pdf - (Source Unknown | 143 Pages)
+│           |── Machine Learning Notes Part 02.pdf - (Source Unknown | 143 Pages)
+│           └── Mathematics for Machine Learning Essential Equations v4.pdf - (Source Unknown | 10 Pages)
 ├── Deep-Learning/
 │   ├── General/
 │   |   ├── Deep Learning from Scratch.pdf - (by O'Reilly | 1st Edition | 253 Pages)
-│   |   └── ######-######.pdf
+│   |   └── Introduction to Deep Learning.pdf - (by Massachusetts Institute of Technology - MIT | January 2019 (6.S|9|) | 289 Pages)
 │   ├── Mathematics/
 │   │   ├── Mathematical Theory of Deep Learning.pdf - (by "Philipp Petersen" and "Jakob Zech" in 2024 | 275 Pages)
+│   │   └── ######-######.pdf
+│   ├── Unauthorized-Texts/
+│   │   ├── Neural Networks and Deep Learning.pdf - (By "Ahmed Elhelbawy" | December 2024 | 54 Pages)
 │   │   └── ######-######.pdf
 │   └── applications/
 │       ├── ######-######.pdf
