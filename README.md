@@ -59,13 +59,16 @@ Tech-Anthotheca (Repository)/
 │       ├── ######-######.pdf
 │       └── ######-######.pdf
 ├── Mathematics/
-│   ├── calculus/
+│   ├── Calculus/
 │   │   ├── ######-######.pdf
 │   │   └── ######-######.pdf
-│   ├── linear-algebra/
+│   ├── Linear-Algebra/
 │   │   ├── ######-######.pdf
 │   │   └── ######-######.pdf
-│   └── statistics/
+│   ├── Probabilty/
+│   │   ├── Probability the Science of Uncertainty and Data Cheet-Sheets.pdf - (by Stanford University and Massachusetts Institute of Technology - MIT | 5 Pages)
+│   │   └── ######-######.pdf
+│   └── Statistics/
 │       ├── ######-######.pdf
 │       └── ######-######.pdf
 ├── Data-Science/
@@ -76,11 +79,11 @@ Tech-Anthotheca (Repository)/
 │       ├── Data Science Interview QnA's.pdf - (ACE PREP Researchers - Based in London, England | 141 Pages)
 │       └── ######-######.pdf
 ├── Artificial-Intelligence/
-│   ├── fundamentals/
-│   │   ├── ######-######.pdf
+│   ├── Transformers/
+│   │   ├── Transformer From Scratch With PyTorch.pdf - (LUIS FERNANDO TORRES | 2024 | 38 Pages)
 │   │   └── ######-######.pdf
-│   └── applications/
-│       ├── ######-######.pdf
+│   └── Cheet-Sheets/
+│       ├── Artificial Intelligence Cheet-Sheets.pdf - (by Stanford University and Massachusetts Institute of Technology - MIT | CS 221 | 19 Pages)
 │       └── ######-######.pdf
 ├── Machine-Learning/
 │   ├── General/
@@ -94,9 +97,9 @@ Tech-Anthotheca (Repository)/
 │   │   └── ######-######.pdf
 │   |── Reinforcement-Learning/
 │   |   ├── Mathematics
-│   │   |   └── The Mathematics of Reinforcement Learning.pdf - (by University of Mannheim | 203 Pages)
-│   │   └── Practical
-│   │       └── ######-######.pdf
+│   │      └── The Mathematics of Reinforcement Learning.pdf - (by University of Mannheim | 203 Pages)
+│   │── Cheet-Sheets/
+│   │   └── Machine Learning Cheet-Sheets.pdf - (by Stanford University and Massachusetts Institute of Technology - MIT | CS 229 | 17 Pages)
 │   |── Mathematics
 │   |       └── Mathematics for Machine Learning.pdf - (by Mohamed Aazi | Reviser Edition | 254 Pages)
 │   └──── Unauthorized-Texts
@@ -113,8 +116,8 @@ Tech-Anthotheca (Repository)/
 │   ├── Unauthorized-Texts/
 │   │   ├── Neural Networks and Deep Learning.pdf - (By "Ahmed Elhelbawy" | December 2024 | 54 Pages)
 │   │   └── ######-######.pdf
-│   └── applications/
-│       ├── ######-######.pdf
+│   └── Cheet-Sheets/
+│       ├── Deep Learning Cheet-Sheets.pdf - (by Stanford University and Massachusetts Institute of Technology - MIT | CS 230 | 14 Pages)
 │       └── ######-######.pdf
 ├── Natural-Language-Processing/
 │   ├── Unauthorized-Texts/
