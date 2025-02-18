@@ -52,7 +52,8 @@ Tech-Anthotheca (Repository)/
 │   │   ├── ######-######.pdf
 │   │   └── ######-######.pdf
 │   ├── Programming/
-│   │   ├── Think Python.pdf - (by O'Reilly | 3rd Edition | Contains 245 Pages)
+│   │   ├── Think Python.pdf - (by O'Reilly | 3rd Edition | 245 Pages)
+│   │   ├── Learning Python.pdf - (by O'Reilly | 4th Edition | 1214 Pages)
 │   │   └── ######-######.pdf
 │   └── Data-Structures/
 │       ├── ######-######.pdf
@@ -72,7 +73,7 @@ Tech-Anthotheca (Repository)/
 │   │   ├── ######-######.pdf
 │   │   └── ######-######.pdf
 │   └── Questionnaire/
-│       ├── Data Science Interview QnA's.pdf - (ACE PREP Researchers - Based in London, England | Contains 141 Pages)
+│       ├── Data Science Interview QnA's.pdf - (ACE PREP Researchers - Based in London, England | 141 Pages)
 │       └── ######-######.pdf
 ├── Artificial-Intelligence/
 │   ├── fundamentals/
@@ -82,6 +83,9 @@ Tech-Anthotheca (Repository)/
 │       ├── ######-######.pdf
 │       └── ######-######.pdf
 ├── Machine-Learning/
+│   ├── General/
+│   │   ├── Machine Learning with Python Cookbook.pdf - (by O'Reilly | 2nd Edition | 169 Pages)
+│   │   └── ######-######.pdf
 │   ├── Supervised-Learning/
 │   │   ├── ######-######.pdf
 │   │   └── ######-######.pdf
@@ -90,13 +94,30 @@ Tech-Anthotheca (Repository)/
 │   │   └── ######-######.pdf
 │   |── Reinforcement-Learning/
 │   |   ├── Mathematics
-│   │   |   └── The Mathematics of Reinforcement Learning.pdf - (by University of Mannheim | Contains 203 Pages)
+│   │   |   └── The Mathematics of Reinforcement Learning.pdf - (by University of Mannheim | 203 Pages)
 │   │   └── Practical
-│   │       └── #####-#####.pdf
-│   └──── Theory
+│   │       └── ######-######.pdf
+│   |── Mathematics
+│   |       └── Mathematics for Machine Learning.pdf - (by Mohamed Aazi | Reviser Edition | 254 Pages)
+│   └──── Unauthorized-Texts
+│           |── Machine Learning Notes Part 01.pdf - (Source Unknown | 129 Pages)
+│           └── Machine Learning Notes Part 02.pdf - (Source Unknown | 143 Pages)
 ├── Deep-Learning/
+│   ├── General/
+│   |   ├── Deep Learning from Scratch.pdf - (by O'Reilly | 1st Edition | 253 Pages)
+│   |   └── ######-######.pdf
 │   ├── Mathematics/
-│   │   ├── Mathematical Theory of Deep Learning.pdf - (by "Philipp Petersen" and "Jakob Zech" in 2024 | Contains 275 Pages)
+│   │   ├── Mathematical Theory of Deep Learning.pdf - (by "Philipp Petersen" and "Jakob Zech" in 2024 | 275 Pages)
+│   │   └── ######-######.pdf
+│   └── applications/
+│       ├── ######-######.pdf
+│       └── ######-######.pdf
+├── Natural-Language-Processing/
+│   ├── Unauthorized-Texts/
+│   |   ├── NLP Preprocessing Steps.pdf - (Source Unknown | 20 Pages)
+│   |   └── ######-######.pdf
+│   ├── Mathematics/
+│   │   ├── ######-######.pdf
 │   │   └── ######-######.pdf
 │   └── applications/
 │       ├── ######-######.pdf
