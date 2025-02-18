@@ -53,8 +53,7 @@ Tech-Anthotheca (Repository)/
 │   │   └── ######-######.pdf
 │   ├── Programming/
 │   │   ├── Think Python.pdf - (by O'Reilly | 3rd Edition | 245 Pages)
-│   │   ├── Learning Python.pdf - (by O'Reilly | 4th Edition | 1214 Pages)
-│   │   └── ######-######.pdf
+│   │   └── Learning Python.pdf - (by O'Reilly | 4th Edition | 1214 Pages)
 │   └── Data-Structures/
 │       ├── ######-######.pdf
 │       └── ######-######.pdf
@@ -92,15 +91,15 @@ Tech-Anthotheca (Repository)/
 │   ├── Supervised-Learning/
 │   │   ├── ######-######.pdf
 │   │   └── ######-######.pdf
-│   ├── Unsupervised-Learning/
+│   ├── Unsupervised Learning/
 │   │   ├── ######-######.pdf
 │   │   └── ######-######.pdf
 │   |── Reinforcement-Learning/
-│   |   ├── Mathematics
-│   │      └── The Mathematics of Reinforcement Learning.pdf - (by University of Mannheim | 203 Pages)
+│   |   └── Mathematics/
+│   │       └── The Mathematics of Reinforcement Learning.pdf - (by University of Mannheim | 203 Pages)
 │   │── Cheet-Sheets/
 │   │   └── Machine Learning Cheet-Sheets.pdf - (by Stanford University and Massachusetts Institute of Technology - MIT | CS 229 | 17 Pages)
-│   |── Mathematics
+│   |── Mathematics/
 │   |       └── Mathematics for Machine Learning.pdf - (by Mohamed Aazi | Reviser Edition | 254 Pages)
 │   └──── Unauthorized-Texts
 │           |── Machine Learning Notes Part 01.pdf - (Source Unknown | 129 Pages)
