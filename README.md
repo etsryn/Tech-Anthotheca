@@ -167,7 +167,7 @@ To clone and set up Tech Anthotheca on your local machine, follow these steps:
    Familiarize yourself with the repository by exploring the directories and reading the provided documentation.
 
 ---
-
+ 
 ## Usage
 
 ### Browsing Resources
